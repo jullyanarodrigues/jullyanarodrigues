@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌸 Me chamo Jullyana, mas pode me chamar de Jully!<br><br>💻 Arquiteta e urbanista explorando o mundo da tecnologia.<br><br>🌱 Estudante de ADS, curiosa, criativa e apaixonada por aprender coisas novas.<br><br>🎨 Amo criar experiências bonitas e únicas para cada pessoa.</p>
+<p align="left">🌸 Me chamo Jullyana, mas pode me chamar de Jully!<br><br>💻 Arquiteta e urbanista em transição para a área de tecnologia.<br><br>🌱 Estudante de ADS, curiosa, criativa e apaixonada por aprender coisas novas.<br><br>🎨 Amo criar experiências bonitas e funcionais, unindo design e tecnologia.</p>
 
 ###
 
